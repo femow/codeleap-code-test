@@ -1,0 +1,15 @@
+.box {
+    background-color: white;
+    border: 1px solid #CCCCCC;
+    padding: 28px 25px 23px 32px;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.box h2 {
+    font-weight: 700;
+    font-size: 22px;
+    margin: 0;
+    margin-bottom: 30px;
+}
