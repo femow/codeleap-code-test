@@ -1,0 +1,19 @@
+.form {
+    border: 1px solid #999999;   
+    margin-top: 44px;
+    padding: 23px 34px 29px 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form label {
+    margin-top: 19px;
+    margin-bottom: 7px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.form h3 {
+    margin: 0;
+    margin-bottom: 15px;
+}
